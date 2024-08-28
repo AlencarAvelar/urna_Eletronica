@@ -1,0 +1,10 @@
+Pedro de Assis, MG17845369, 015443020272, Formiga, MG
+Carla Machado, SP156987456, 848242120221, Osasco, SP	
+Félix Nascimento, MG18123654, 670351800264, Pains, MG
+Luís Silva, RS16457956, 732787030230, Santa Maria, RS
+Maria Oliveira, RJ19587432, 512378943218, Rio de Janeiro, RJ
+José Santos, BA16874532, 987654321234, Salvador, BA
+Ana Costa, SC17654321, 654321098765, Florianópolis, SC
+Ricardo Pereira, PR18907654, 345678901234, Curitiba, PR
+Isabel Martins, CE16789045, 876543210987, Fortaleza, CE
+Claudio Santos, SP15432109, 123456789012, São Paulo, SP
