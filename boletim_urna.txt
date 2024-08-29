@@ -1,0 +1,16 @@
+Apura��o dos votos:
+Eleitores Aptos: 4
+Total de Votos Nominais: 8
+Brancos: 0
+Nulos: 0
+
+Candidato: José da Silva | Cargo: F | Estado: MG | Votos: 0 (0.00%)
+Candidato: Maria do Carmo | Cargo: F | Estado: SP | Votos: 1 (12.50%)
+Candidato: Pedro de Azevedo | Cargo: S | Estado: PR | Votos: 0 (0.00%)
+Candidato: Antônio de Melo | Cargo: S | Estado: SP | Votos: 2 (25.00%)
+Candidato: Carlos Nascimento | Cargo: E | Estado: MG | Votos: 1 (12.50%)
+Candidato: Guilherme Guimarães | Cargo: E | Estado: SP | Votos: 1 (12.50%)
+Candidato: Paulo da Cunha | Cargo: P | Estado: SP | Votos: 1 (12.50%)
+Candidato: Emília Santos | Cargo: G | Estado: MG | Votos: 0 (0.00%)
+Candidato: Cristiano Costa | Cargo: F | Estado: SP | Votos: 0 (0.00%)
+Candidato: Walter White | Cargo: S | Estado: MG | Votos: 2 (25.00%)
