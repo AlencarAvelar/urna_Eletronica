@@ -1,3 +1,5 @@
+
+# teste - 
 def localizar_arquivo():
    filename = input("Informe a localização dos dados que deseja: ")
    with open(filename, "r") as arq: 
